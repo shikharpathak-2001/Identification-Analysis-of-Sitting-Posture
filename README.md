@@ -34,7 +34,7 @@ The output can tell you whether a person is sitting in a *Straight position*, *H
 You can see the plot made by the test images in [plot.md](plot.md).
 For the below image:
 
-<img src="/sample_images/test_flip1.jpg" width="300"/>
+<img src="/sample_images/test_flip1.jpeg" width="300"/>
 
 we would get the following output
 <img src="/results/output/1.jpg" width="300"/>
