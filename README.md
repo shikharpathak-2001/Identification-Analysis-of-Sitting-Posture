@@ -37,6 +37,7 @@ For the below image:
 <img src="/sample_images/test_flip1.jpeg" width="300"/>
 
 we would get the following output
+
 <img src="results/output/1st.jpeg" width="300"/>
 
 
