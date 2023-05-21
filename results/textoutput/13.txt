@@ -1,0 +1,3 @@
+Straight, percentage error is: 4%
+86
+0

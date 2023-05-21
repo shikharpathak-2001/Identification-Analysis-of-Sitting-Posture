@@ -1,0 +1,126 @@
+1
+Straight
+percentage error is: 8%
+83
+0
+
+2
+Straight
+percentage error is: 10%
+99
+0
+
+3
+Straight
+percentage error is: 1%
+91
+0
+
+4
+Straight
+percentage error is: 4%
+94
+0
+
+5
+Hunchback
+percentage error is: 27%
+66
+1
+
+6
+Hunchback
+percentage error is: 28%
+115
+1
+
+7
+Straight
+percentage error is: 10%
+99
+0
+
+8
+Hunchback
+percentage error is: 24%
+68
+1
+
+9
+Straight
+percentage error is: 6%
+85
+0
+
+10
+Hunchback
+percentage error is: 23%
+111
+1
+
+13
+Straight
+percentage error is: 4%
+86
+0
+
+14
+Hunchback
+percentage error is: 27%
+114
+1
+
+16
+Straight
+percentage error is: 9%
+82
+0
+
+17
+Hunchback
+percentage error is: 39%
+55
+1
+
+18
+Straight
+percentage error is: 4%
+94
+0
+
+19
+Straight
+percentage error is: 4%
+94
+0
+
+20
+Straight
+percentage error is: 2%
+88
+0
+
+21
+Straight
+percentage error is: 2%
+88
+0
+
+22
+Reclined
+percentage error is: 33%
+60
+-1
+
+23
+Reclined
+percentage error is: 28%
+115
+-1
+
+24
+Reclined
+percentage error is: 33%
+60
+-1
+
